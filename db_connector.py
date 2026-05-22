@@ -1,7 +1,7 @@
 # db_connector.py
 import os
 import psycopg2
-from psycopopg2.extras import RealDictCursor
+from psycopg2.extras import RealDictCursor
 from dotenv import load_dotenv
 import streamlit as st
 
