@@ -110,7 +110,7 @@ st.markdown(
         </p>
         <p style="font-size: 10px; color: #999;">
             Natural Language to SQL Assistant | Portfolio Project for Data Scientist (Google) | 
-            <a href="https://github.com/burhanudin/nl2sql-dvdrental" target="_blank">GitHub Repository</a>
+            <a href="https://github.com/burhanudinera2018/nl2sql-dvdrental-assistant" target="_blank">GitHub Repository</a>
         </p>
     </div>
     """,
