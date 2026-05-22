@@ -30,4 +30,5 @@ Thumbs.db
 
 # Database backup
 *.dump
-*.sql
+*.sql.env
+.streamlit/secrets.toml
