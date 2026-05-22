@@ -237,7 +237,8 @@ GEMINI_API_KEY	Google Gemini API key	Yes
 ---
 
 ## 📁 Project Structure
-```mermaid
+
+```
 nl2sql-dvdrental-assistant/
 ├── app.py                      # Main Streamlit application
 ├── db_connector.py             # PostgreSQL connection handler
