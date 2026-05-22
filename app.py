@@ -23,6 +23,17 @@ with st.sidebar:
         schema = get_schema_info()
         st.text_area("Schema:", schema, height=300)
 
+# ========== TAMBAHKAN INI DI BAWAH ==========
+    st.markdown("---")
+    st.markdown("### 📊 API Status")
+    st.markdown("""
+    - **Model:** Gemini 2.5 Flash
+    - **Rate Limit:** 5 requests/minute
+    - **Status:** 🟢 Active
+    - **Tip:** Beri jeda 10 detik antar pertanyaan
+    """)
+    # ========== SAMPAI SINI ==========
+
 # Main chat interface
 st.header("💬 Natural Language Query")
 
