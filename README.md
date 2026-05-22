@@ -35,7 +35,7 @@
 ---
 
 ## 🏗️ System Architecture
-```mermaid
+```
 [User Question]
 ↓
 [Streamlit Frontend UI]
@@ -192,32 +192,37 @@ GROUP BY customer_id;
 ---
 
 ## 🚀 Local Development Setup
-Prerequisites:
+**Prerequisites:**
 
-Python 3.11 or higher
+- Python 3.11 or higher
 
-PostgreSQL (local or cloud instance)
+- PostgreSQL (local or cloud instance)
 
-Google Gemini API key (free tier available)
+- Google Gemini API key (free tier available)
 
-Installation Steps:
+**Installation Steps:**
 
 # 1. Clone the repository
+```bash
 git clone https://github.com/burhanudin/nl2sql-dvdrental-assistant.git
 cd nl2sql-dvdrental-assistant
+```
 
 # 2. Create and activate virtual environment
+```bash
 python3.11 -m venv venv_nl2sql
 source venv_nl2sql/bin/activate
-
+```
 # 3. Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
+```markdown
 # 4. Set up environment variables
 # Create .env file with:
 # DATABASE_URL=postgresql://username:password@host:5432/dvdrental
 # GEMINI_API_KEY=your_gemini_api_key_here
-
+```
 # 5. Run the application
 ```bash
 streamlit run app.py
@@ -227,6 +232,9 @@ streamlit run app.py
 Variable	Description	Required
 DATABASE_URL	PostgreSQL connection string	Yes
 GEMINI_API_KEY	Google Gemini API key	Yes
+
+
+---
 
 ## 📁 Project Structure
 ```mermaid
