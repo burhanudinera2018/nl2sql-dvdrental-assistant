@@ -292,12 +292,15 @@ nl2sql-dvdrental-assistant/
 - Deploy with persistent chat history
 
 ## 📞 Contact & Portfolio
-```
-Platform	Link
-LinkedIn	https://www.linkedin.com/in/burhanudin-badiuzaman4a9204161/
-GitHub	https://github.com/burhanudinera2018/nl2sql-dvdrental-assistant
-Portfolio	https://burhanudinera2018.github.io/portfolio/
-```
+
+| Platform | Link |
+|----------|------|
+| **LinkedIn** | [linkedin.com/in/burhanudin-badiuzaman](https://www.linkedin.com/in/burhanudin-badiuzaman4a9204161/) |
+| **GitHub** | [github.com/burhanudiner2018/nl2sql-dvrental-assistant](https://github.com/burhanudiner2018/nl2sql-dvrental-assistant) |
+| **Portfolio** | [burhanudiner2018.github.io/portfolio](https://burhanudiner2018.github.io/portfolio/) |
+
+---
+
 **Target Roles:**
 
 - Data Scientist @ Google
