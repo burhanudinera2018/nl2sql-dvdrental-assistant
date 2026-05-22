@@ -217,11 +217,12 @@ source venv_nl2sql/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-```markdown
+
 # 4. Set up environment variables
-# Create .env file with:
-# DATABASE_URL=postgresql://username:password@host:5432/dvdrental
-# GEMINI_API_KEY=your_gemini_api_key_here
+**Create .env file with:**
+```bash
+DATABASE_URL=postgresql://username:password@host:5432/dvdrental
+GEMINI_API_KEY=your_gemini_api_key_here
 ```
 # 5. Run the application
 ```bash
