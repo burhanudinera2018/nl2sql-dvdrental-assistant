@@ -292,32 +292,28 @@ nl2sql-dvdrental-assistant/
 - Deploy with persistent chat history
 
 ## 📞 Contact & Portfolio
+```
 Platform	Link
 LinkedIn	https://www.linkedin.com/in/burhanudin-badiuzaman4a9204161/
 GitHub	https://github.com/burhanudinera2018/nl2sql-dvdrental-assistant
 Portfolio	https://burhanudinera2018.github.io/portfolio/
-
+```
 **Target Roles:**
 
-Data Scientist @ Google
+- Data Scientist @ Google
 
-Analytics Solution Architect @ LTM
+- Analytics Solution Architect @ LTM
 
-Data Analytics & AI Analyst @ ABeam Consulting
+- Data Analytics & AI Analyst @ ABeam Consulting
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-You are free to use, modify, and distribute this code for educational and commercial purposes, provided you retain the copyright notice.
+This project is licensed under the MIT License - see the LICENSE file for details. You are free to use, modify, and distribute this code for educational and commercial purposes, provided you retain the copyright notice.
 
 ## 🙏 Acknowledgments
-Google Gemini API for free-tier access to state-of-the-art LLM
-
-Supabase for reliable cloud PostgreSQL with IPv4 Session Pooler
-
-Streamlit for making AI application deployment accessible
-
-PostgreSQL community for the classic DVD Rental sample database
+- Google Gemini API for free-tier access to state-of-the-art LLM
+- Supabase for reliable cloud PostgreSQL with IPv4 Session Pooler
+- Streamlit for making AI application deployment accessible
+- PostgreSQL community for the classic DVD Rental sample database
 
 <div align="center">
 Built with ❤️ by Burhanudin Badiuzaman
